@@ -1,0 +1,9 @@
+/* Apply red color to all elements with the class 'quote' */
+.quote {
+    color: red;
+}
+
+/* Specific styling for the element with id 'mainquote' */
+#mainquote {
+  
+}
